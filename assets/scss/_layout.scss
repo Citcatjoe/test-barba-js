@@ -1,0 +1,25 @@
+#barba-wrapper
+{
+	height: 100%;
+	background: green;
+	font-family: Helvetica;
+	color: white;
+	//padding-bottom: 100px;
+}
+
+.barba-container	
+{
+	&.is-blue { background: blue;}
+	&.is-red { background: red;}
+
+	img
+	{
+		max-width: 500px;
+		margin: auto;
+	}
+
+	a 
+	{
+		color: gray;
+	}
+}
