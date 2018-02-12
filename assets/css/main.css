@@ -31,15 +31,15 @@ p {
   font-family: Helvetica;
   color: white; }
 
-.barba-container.is-blue {
+#barba-wrapper.is-blue {
   background: blue; }
 
-.barba-container.is-red {
+#barba-wrapper.is-red {
   background: red; }
 
-.barba-container img {
+#barba-wrapper img {
   max-width: 500px;
   margin: auto; }
 
-.barba-container a {
+#barba-wrapper a {
   color: gray; }
